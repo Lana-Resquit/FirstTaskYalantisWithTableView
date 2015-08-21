@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2643982-7F1A-4200-BCA3-27D7D3D86792</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestForYalantis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A966BB2F2C566499C6397AE0F3D0B04844B7373</key>
+		<string>https://github.com/Lana-Resquit/FirstTaskYalantisWithTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestForYalantis.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A966BB2F2C566499C6397AE0F3D0B04844B7373</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Lana-Resquit/FirstTaskYalantisWithTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A966BB2F2C566499C6397AE0F3D0B04844B7373</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A966BB2F2C566499C6397AE0F3D0B04844B7373</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestForYalantisWithTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
